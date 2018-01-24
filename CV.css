@@ -1,0 +1,36 @@
+h1 {
+    font-family: arial;
+    color: white
+}
+.coordonnees {
+    background-color:#008080;
+    height: 200px;
+    width: 1200px;
+    padding: 20px;
+    margin: 20px;
+}
+p {
+    color:black;
+}
+.formation{
+background-color: #E6E6FA;
+font-size:14px;
+height: 450px;
+width:560px;
+padding:20px;
+margin:20px;0;
+
+}
+
+.expériences {
+    background-color: #C0C0C0;
+    font-size:14px;
+    width:560px;
+    height: 450px;
+    padding:20px;
+    margin:20px;0;
+    position:absolute;
+    top:260px;
+    left:650px;
+    
+}
